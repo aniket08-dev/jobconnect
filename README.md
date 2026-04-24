@@ -2,6 +2,9 @@
 
 **JobConnect** is a modern frontend-only job listing portal built using **ReactJS**, designed to help users discover, search, and apply for jobs quickly and easily.
 
+🚀 Live Demo
+
+👉 jobconnect-aniket.netlify.app
 ---
 
 ## 🚀 Features
