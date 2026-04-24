@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechNova",
+    "location": "Pune",
+    "salary": "₹6-9 LPA",
+    "type": "Part-Time",
+    "skills": ["React", "CSS", "JavaScript"],
+    "description": "We are looking for a skilled Frontend Developer..."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "CodeWave",
+    "location": "Bangalore",
+    "salary": "₹8-12 LPA",
+    "type": "Full-Time",
+    "skills": ["Node.js", "MongoDB", "Express"],
+    "description": "Experienced backend developer needed..."
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Designer",
+    "company": "PixelEdge",
+    "location": "Remote",
+    "salary": "₹4-7 LPA",
+    "type": "Part-Time",
+    "skills": ["Figma", "Adobe XD", "User Research"],
+    "description": "Design intuitive user interfaces for web and mobile."
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "company": "CloudBridge",
+    "location": "Hyderabad",
+    "salary": "₹10-15 LPA",
+    "type": "Full-Time",
+    "skills": ["AWS", "Docker", "Kubernetes"],
+    "description": "Maintain and scale cloud infrastructure..."
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Developer",
+    "company": "InnoSoft",
+    "location": "Mumbai",
+    "salary": "₹12-18 LPA",
+    "type": "Full-Time",
+    "skills": ["React", "Node.js", "MySQL"],
+    "description": "We’re hiring a full stack dev to build scalable apps."
+  },
+  {
+    "id": 6,
+    "title": "Data Scientist",
+    "company": "DataDive",
+    "location": "Noida",
+    "salary": "₹9-14 LPA",
+    "type": "Full-Time",
+    "skills": ["Python", "TensorFlow", "Data Analysis"],
+    "description": "Analyze large datasets to build predictive models."
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Developer",
+    "company": "AppSphere", 
+    "location": "Remote",
+    "salary": "₹7-11 LPA",
+    "type": "Part-Time",
+    "skills": ["Flutter", "Firebase", "Dart"],
+    "description": "Develop cross-platform apps with Flutter."
+  },
+  {
+    "id": 8,
+    "title": "QA Engineer",
+    "company": "TestXperts",
+    "location": "Chennai",
+    "salary": "₹5-8 LPA",
+    "type": "Full-Time",
+    "skills": ["Selenium", "JIRA", "Automation Testing"],
+    "description": "Ensure high product quality with automated tests."
+  },
+  {
+    "id": 9,
+    "title": "AI Engineer",
+    "company": "NeuroSoft",
+    "location": "Bangalore",
+    "salary": "₹15-22 LPA",
+    "type": "Full-Time",
+    "skills": ["AI", "Deep Learning", "Python"],
+    "description": "Develop AI-powered solutions using advanced ML models."
+  },
+  {
+    "id": 10,
+    "title": "Software Engineer",
+    "company": "Hola9",
+    "location": "Bangalore",
+    "salary": "₹15-22 LPA",
+    "type": "Full-Time",
+    "skills": ["AI", "Deep Learning", "Python","React"],
+    "description": "Develop AI-powered solutions using advanced ML models."
+  }
+]
